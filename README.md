@@ -5,7 +5,7 @@ The paper this code belongs to: <https://zamrik.com/research-items/tn-2026-25406
 PDF: <https://zamrik.com/wp-content/uploads/research/skew-brownian-motion.pdf>
 Disclaimer: research and education, not advice: <https://zamrik.com/disclaimer/>
 
-`TN-2026-25406484` · T. Zamrik
+`TN-2026-25406484` · Stochastic Analysis Desk, Zamrik Quant Research — supervised by Dr. T. Zamrik
 <!-- @@ZAMRIK-LINKS:END@@ -->
 
 Everything that produces the numbers and figures in **Skew Brownian Motion: One Biased
